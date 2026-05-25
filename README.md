@@ -87,7 +87,7 @@ Asynchronous task handling for monitoring workflows and scheduled operations usi
 
 ### Alarm Analysis
 
-![Alarm Analysis](screenshots/alarm-detail)
+![Alarm Analysis](screenshots/alarm-detail.png)
 
 ## Running Locally
 
